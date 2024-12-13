@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 
 ## 📫 Get in Touch
 - **LinkedIn**: [Saba Gvasalia](https://www.linkedin.com/in/saba-gvasalia-350a37270/)
-- **Email**: [saba.gvasalia@example.com](mailto:sabagvasalia26@gmail.com)
+- **Email**: [sabagvasalia26@gmail.com](mailto:sabagvasalia26@gmail.com)
 
 ---
 
