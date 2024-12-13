@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 ---
 
 ## 📈 GitHub Stats
-![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvaso27&show_icons=true&theme=radical)
+![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvaso27&show_icons=true&theme=radical&count_private=true)
 
 ---
 
@@ -49,8 +49,8 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 
 ## 📫 Get in Touch
 - **LinkedIn**: [Saba Gvasalia](https://www.linkedin.com/in/saba-gvasalia-350a37270/)
-- **Email**: [sabagvasalia26@gmail.com](mailto:sabagvasalia26@gmail.com)
 - **Facebook**: [Saba Gvasalia](https://www.facebook.com/saba.gvasalia.1)
+- **Email**: [sabagvasalia26@gmail.com](mailto:sabagvasalia26@gmail.com)
 
 ---
 
