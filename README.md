@@ -46,11 +46,11 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 - **Description**: Repository for solving a wide variety of HackerRank problems to sharpen problem-solving skills.
 
 ### 🎰 [Casino Promotion Core System](https://github.com/gvaso27/Casino-Promotion-Core-System)
-- **Tech Stack**: Spring Boot, MongoDB
+- **Tech Stack**: Java
 - **Description**: Backend system for managing casino promotions and user engagement.
 
 ### 📈 [Competitive Programming Problems](https://github.com/gvaso27/algorithms/tree/main/algorithms)
-- **Tech Stack**: C++, Java
+- **Tech Stack**: C++
 - **Description**: Solutions to competitive programming problems focusing on efficiency and optimization.
 
 ### 🖥️ [Programming Methodology](https://github.com/gvaso27/Programming-Methodologies)
