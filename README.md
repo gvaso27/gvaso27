@@ -57,6 +57,10 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 - **Tech Stack**: C++
 - **Description**: Coursework and projects exploring fundamental programming abstractions and algorithms.
 
+### 🛠️ [Programming Paradigms](https://github.com/gvaso27/Programming-Paradigms)
+- **Tech Stack**: C, C++, Python, Scheme
+- **Description**: Coursework and projects exploring fundamental programming paradigms.
+
 ---
 
 ## 📈 GitHub Stats
