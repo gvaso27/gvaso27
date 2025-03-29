@@ -21,17 +21,21 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 - **C**
 - **C#**
 - **Scheme**
+- **Kotlin**
+- **SQL**
 
 ### Frameworks & Tools:
 - **Spring Boot**
 - **Docker**
 - **MongoDB**
+- **Jetpack Compose**
 
 ### Others:
 - Git & GitHub
 - RESTful APIs
 - Data Structures & Algorithms
 - Mathematics and problem-solving
+- Android Development
 
 ---
 
@@ -53,11 +57,11 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 - **Tech Stack**: Java
 - **Description**: Assignments and projects from a course on programming methodologies, emphasizing clean and maintainable code.
 
-### 🛠️ [Programming Abstraction](https://github.com/gvaso27/Programming-Abstractions)
+### 🖥️ [Programming Abstraction](https://github.com/gvaso27/Programming-Abstractions)
 - **Tech Stack**: C++
 - **Description**: Coursework and projects exploring fundamental programming abstractions and algorithms.
 
-### 🛠️ [Programming Paradigms](https://github.com/gvaso27/Programming-Paradigms)
+### 🖥️ [Programming Paradigms](https://github.com/gvaso27/Programming-Paradigms)
 - **Tech Stack**: C, C++, Python, Scheme
 - **Description**: Coursework and projects exploring fundamental programming paradigms.
 
