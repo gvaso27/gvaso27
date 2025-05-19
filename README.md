@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 
 ## 📂 Featured Projects
 
-### ✊✋✌️ [POS API Service](https://github.com/gvaso27/Point-of-Sales-POS-system.git)
+### 🧾[POS API Service](https://github.com/gvaso27/Point-of-Sales-POS-system.git)
 - **Tech Stack**: Python
 - **Description**: A backend service built with FastAPI and SQLite, designed to power a modern Point of Sale (POS) system.
 
