@@ -41,9 +41,13 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 
 ## 📂 Featured Projects
 
+### ✊✋✌️ [RPS game](https://github.com/gvaso27/RPS-game.git)
+- **Tech Stack**: Kotlin
+- **Description**: Developed a Rock Paper Scissors Game which.
+
 ### 🌤️ [Weather Application Android](https://github.com/gvaso27/weather-app.git)
 - **Tech Stack**: Kotlin
-- **Description**: Developed an Weather Application which shows current and next 5 days weather.
+- **Description**: Developed a Weather Application which shows current and next 5 days weather.
 
 ### 🌐 [Quizz Website](https://github.com/gvaso27/OOP-FINALPROJECT-quizzWebsite)
 - **Tech Stack**: Java, JavaFX
