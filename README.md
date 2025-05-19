@@ -41,6 +41,10 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 
 ## 📂 Featured Projects
 
+### 🌤️ [Weather Application Android](https://github.com/gvaso27/weather-app.git)
+- **Tech Stack**: Kotlin
+- **Description**: Developed an Weather Application which shows current and next 5 days weather.
+
 ### 🌐 [Quizz Website](https://github.com/gvaso27/OOP-FINALPROJECT-quizzWebsite)
 - **Tech Stack**: Java, JavaFX
 - **Description**: Developed an interactive quiz website as part of an object-oriented programming course.
