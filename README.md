@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 ## 👨‍💻 About Me
 - 🎓 **Bachelor's student** majoring in Mathematics and Computer Science.
 - 🌍 Based in Tbilisi, Georgia.
-- 🚀 Interested in **Spring Boot**, **MongoDB**, and scalable backend solutions.
+- 🚀 Interested in startups and building web/mobile applications.
 - 🌐 Open to **collaborations**, internships, and learning opportunities abroad.
 
 ---
