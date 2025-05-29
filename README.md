@@ -61,6 +61,10 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 - **Tech Stack**: Various programming languages
 - **Description**: Repository for solving a wide variety of HackerRank problems to sharpen problem-solving skills.
 
+### 🎯 [Design Patterns](https://github.com/gvaso27/Design-Patterns.git)
+- **Tech Stack**: Python
+- **Description**: Projects from a course on Design Patterns, emphasizing clean and maintainable code.
+
 ### 📈 [Competitive Programming Problems](https://github.com/gvaso27/algorithms/tree/main/algorithms)
 - **Tech Stack**: C++
 - **Description**: Solutions to competitive programming problems focusing on efficiency and optimization.
