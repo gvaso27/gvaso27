@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 - **Description**: Developed an interactive quiz website as part of an object-oriented programming course.
 
 ### 💻 [HackerRank Solutions](https://github.com/gvaso27/hackerrank)
-- **Tech Stack**: Various programming languages
+- **Tech Stack**: C++, C#, Java
 - **Description**: Repository for solving a wide variety of HackerRank problems to sharpen problem-solving skills.
 
 ### 🎯 [Design Patterns](https://github.com/gvaso27/Design-Patterns.git)
