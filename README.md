@@ -41,6 +41,10 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 
 ## 📂 Featured Projects
 
+### 📬[Customer Notification Address Facade System](https://github.com/gvaso27/notifications.git)
+- **Tech Stack**: Java, HTML, JavaScript, CSS
+- **Description**: This project is a microservice-based application built with Java (Spring Boot) that centralizes and manages customer contact information and their notification preferences. 
+
 ### 🧾[POS API Service](https://github.com/gvaso27/Point-of-Sales-POS-system.git)
 - **Tech Stack**: Python
 - **Description**: A backend service built with FastAPI and SQLite, designed to power a modern Point of Sale (POS) system.
