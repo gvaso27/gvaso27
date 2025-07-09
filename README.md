@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 - **Spring Boot**
 - **Docker**
 - **MongoDB**
+- **PostgreSQL**
+- **DOTNET**
 - **Jetpack Compose**
 
 ### Others:
