@@ -94,8 +94,6 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 ## 📈 GitHub Stats
 ![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvaso27&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvaso27&layout=compact&theme=radical)
-
 
 ---
 
