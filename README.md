@@ -43,6 +43,10 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 
 ## 📂 Featured Projects
 
+### 💬[Messenger-app](https://github.com/TomC333/messenger-app.git)
+- **Tech Stack**: Kotlin
+- **Description**: This project is a simple messenger application for Android. 
+
 ### 💳[Casino Wallet API](https://github.com/gvaso27/casino-wallet.git)
 - **Tech Stack**: C#, HTML, JavaScript, CSS
 - **Description**: This is a .NET 8 Web API project for a Casino Wallet System. 
