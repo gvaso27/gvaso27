@@ -97,19 +97,6 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 
 ---
 
-## 📈 GitHub Stats
-![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvaso27&show_icons=true&theme=radical&count_private=true)
-
-
----
-
-## 🌱 I’m Currently Learning
-- Advanced backend architectures.
-- Exploring Machine Learning basics.
-- Enhancing my Kotlin and Android development skills.
-
----
-
 ## 📫 Get in Touch
 - **LinkedIn**: [Saba Gvasalia](https://www.linkedin.com/in/saba-gvasalia-350a37270/)
 - **Facebook**: [Saba Gvasalia](https://www.facebook.com/saba.gvasalia.1)
