@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm **Saba Gvasalia**, a passionate developer and 
 - **Tech Stack**: Kotlin
 - **Description**: This project is a simple messenger application for Android.
 
-### 💬[iSlap](https://github.com/gvaso27/iSlap.git)
+### 👋[iSlap](https://github.com/gvaso27/iSlap.git)
 - **Tech Stack**: SwiftUi
 - **Description**: This project is simple, funny iOS application.
 
